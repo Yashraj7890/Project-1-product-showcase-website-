@@ -1,0 +1,303 @@
+
+    body {
+      overflow-x: hidden;
+      max-width: 100%;
+    }
+
+
+    .sec_1 {
+      background-color: #000000;
+    }
+
+    .sec_1_intro-text {
+      font-family: 'Josefin Sans', sans-serif;
+      font-size: 3.5rem;
+      font-weight: bolder;
+      color: white;
+      text-align: center;
+      margin: auto;
+    }
+
+    @media (max-width:992px) {
+      .sec_1_intro-text {
+        padding-top: 4rem;
+        padding-bottom: 4rem;
+      }
+
+    }
+
+    #sec_1_img_1 {
+      height: 23rem;
+      width: 48rem;
+      margin: auto;
+    }
+
+
+
+
+    .sec_2 {
+      background-color: #76B900;
+    }
+
+    .sec_2_features {
+      align-items: center;
+      text-align: center;
+      padding-top: 2rem;
+      padding-bottom: 2rem;
+      margin-top: 3rem;
+      margin-bottom: 3rem;
+    }
+
+    .sec_2_features_ico {
+      font-size: 2.55rem;
+      margin-bottom: 1rem;
+    }
+
+    .sec_2_features_txt {
+      font-size: 1.2rem;
+      font-weight: 400;
+    }
+
+
+
+
+    .sec_3 {
+      background-color: #000000;
+      padding-bottom: 3rem;
+    }
+
+    .sec_3_img {
+      height: 100%;
+      width: 100%;
+    }
+
+    .sec_3_carousel {
+      margin-top: 2rem;
+    }
+
+    .sec_3_carousel_item-box {
+      align-items: center;
+      text-align: center;
+    }
+
+    .sec_3_carousel_icons {
+      color: #76B900;
+      font-size: 2.5rem;
+      margin-top: 2rem;
+    }
+
+    .sec_3_carousel_txt {
+      font-family: 'Josefin Sans', sans-serif;
+      font-size: 1rem;
+      margin-top: 2rem;
+      color: white;
+    }
+
+
+
+    .sec_4 {
+      background-color: #76B900;
+    }
+
+    .sec_4_content {
+      text-align: center;
+      padding-top: 2rem;
+      padding-bottom: 2rem;
+    }
+
+    .sec_4_specs_heading {
+      font-family: 'Josefin Sans', sans-serif;
+      font-size: 2.5rem;
+      color: white;
+      margin-bottom: 2rem;
+
+    }
+
+    .sec_4_specs_table {
+      margin: auto;
+    }
+
+    .sec_4_specs_table_heading {
+      color: #000000;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      font-size: larger;
+      font-weight: 500;
+      padding-left: 1.2rem;
+      padding-right: 1.2rem;
+      padding-bottom: 1rem;
+
+    }
+
+    .sec_4_specs_table_side-heading {
+      color: white;
+      padding-bottom: 1rem;
+      padding-top: 1rem;
+      padding-right: 1rem;
+      text-align: left;
+
+    }
+
+    .sec_4_specs_table_content {
+      padding-bottom: 1rem;
+      padding-top: 1rem;
+
+    }
+
+
+
+    .sec_5 {
+      background-color: #000000;
+    }
+
+    .sec_5_text_1 {
+      font-family: 'Josefin Sans', sans-serif;
+      font-weight: 900;
+      font-size: 3rem;
+      color: white;
+      margin-top: 6rem;
+      margin-left: 1rem;
+    }
+
+    .sec_5_text_2 {
+      font-family: 'Josefin Sans', sans-serif;
+      font-size: 1.5rem;
+      font-weight: 900;
+      margin-left: 1rem;
+      color: #76B900;
+    }
+
+
+    .sec_6 {
+      background-color: #000000;
+      padding-bottom: 3rem;
+    }
+
+    .sec_6_heading {
+      padding-top: 9rem;
+      padding-bottom: 3rem;
+      text-align: center;
+      color: white;
+      font-family: 'Josefin Sans', sans-serif;
+      font-weight: 800;
+      font-size: 2rem;
+    }
+
+    .sec_6_content {
+      justify-content: center;
+    }
+
+    .sec_6_cards {
+      background-color: #1a1a1a;
+      margin-left: 1.5rem;
+      margin-right: 1.5rem;
+      margin-top: 2.5rem;
+      border: 1px solid #76B900;
+
+    }
+
+    .sec_6_cards_heading {
+      color: #76B900;
+      font-family: 'Josefin Sans', sans-serif;
+      font-size: large;
+      font-weight: 500;
+      padding-top: 0.5rem;
+    }
+
+    .sec_6_cards_content {
+      color: white;
+      padding-top: 0.5rem;
+    }
+
+    .sec_7 {
+      background-color: #000000;
+    }
+
+    .sec_7_box1 {
+      text-align: center;
+
+    }
+
+    .sec_7_box1_img1 {
+      width: 40rem;
+      height: 22rem;
+      margin: auto;
+
+    }
+
+    .sec_7_box2 {
+      font-size: 3.5rem;
+      color: white;
+      font-family: 'Josefin Sans', sans-serif;
+      font-weight: 600;
+
+      margin: auto;
+      text-align: center;
+
+    }
+
+    @media (max-width:1511px) {
+      .sec_7_box2 {
+        padding-bottom: 3rem;
+        padding-top: 3rem;
+      }
+    }
+
+
+
+    .sec_8 {
+      background-color: #76B900;
+      text-align: left;
+      padding-top: 3rem;
+      padding-bottom: 3rem;
+      padding-left: 1.5rem;
+    }
+
+    .sec_8_text1 {
+      font-size: 3rem;
+      font-family: 'Josefin Sans', sans-serif;
+      font-weight: 600;
+      color: #000000;
+    }
+
+    .sec_8_text2 {
+      font-size: 2rem;
+      font-weight: 500;
+      color: white;
+    }
+
+
+    .sec_9 {
+      background-color: #000000;
+      text-align: center;
+      padding-bottom: 3rem;
+    }
+
+    .sec_9_heading {
+      color: white;
+      text-align: center;
+      font-size: 2.5rem;
+      padding-top: 4rem;
+
+      font-weight: lighter;
+
+    }
+
+    .sec_9_boxes {
+      color: white;
+      padding-top: 2rem;
+
+    }
+
+    .sec_9_boxes_imgs:hover {
+      border: 1px solid #76B900;
+    }
+
+    .sec_9_note {
+      text-align: right;
+      color: white;
+      font-weight: lighter;
+      font-size: small;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      margin-top: 5rem;
+    }
+  
