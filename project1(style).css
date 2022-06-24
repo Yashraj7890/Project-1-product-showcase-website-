@@ -1,5 +1,7 @@
 
-    body {
+    html,body {
+      margin: 0px;
+      padding: 0px;
       overflow-x: hidden;
       max-width: 100%;
     }
@@ -21,7 +23,7 @@
     @media (max-width:992px) {
       .sec_1_intro-text {
         padding-top: 4rem;
-        padding-bottom: 4rem;
+        padding-bottom: 3rem;
       }
 
     }
@@ -220,8 +222,23 @@
     .sec_7_box1_img1 {
       width: 40rem;
       height: 22rem;
-      margin: auto;
-
+      margin: auto;}
+      
+    @media(max-width:608px){
+      .sec_7_box1_img1{
+        
+        width: 33rem;
+        height: 18rem;
+      }
+    
+    }
+    @media(max-width:505px){
+      .sec_7_box1_img1{
+        
+        width: 27.5rem;
+        height: 15rem;
+      }
+    
     }
 
     .sec_7_box2 {
@@ -229,7 +246,7 @@
       color: white;
       font-family: 'Josefin Sans', sans-serif;
       font-weight: 600;
-
+    
       margin: auto;
       text-align: center;
 
@@ -238,7 +255,7 @@
     @media (max-width:1511px) {
       .sec_7_box2 {
         padding-bottom: 3rem;
-        padding-top: 3rem;
+        padding-top: 4rem;
       }
     }
 
