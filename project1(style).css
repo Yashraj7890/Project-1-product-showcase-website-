@@ -307,7 +307,7 @@
     }
 
     .sec_9_boxes_imgs:hover {
-      border: 1px solid #76B900;
+      background-color: rgb(30, 30, 30);
     }
 
     .sec_9_note {
